@@ -8,6 +8,20 @@
         <ComboBox  x:Name="SS"  HorizontalAlignment="Left" Margin="10,36,0,0" VerticalAlignment="Top" Width="120" SelectionChanged="ComboBox_SelectionChanged">
             <ComboBoxItem Content="1"/>
             <ComboBoxItem Content="2"/>
+            <ComboBoxItem Content="3"/>
+            <ComboBoxItem Content="4"/>
+            <ComboBoxItem Content="5"/>
+            <ComboBoxItem Content="6"/>
+            <ComboBoxItem Content="7"/>
+            <ComboBoxItem Content="8"/>
+            <ComboBoxItem Content="9"/>
+            <ComboBoxItem Content="10"/>
+            <ComboBoxItem Content="11"/>
+            <ComboBoxItem Content="12"/>
+            <ComboBoxItem Content="13"/>
+            <ComboBoxItem Content="14"/>
+            <ComboBoxItem Content="15"/>
+            <ComboBoxItem Content="16"/>
         </ComboBox>
         <Button x:Name="Pusk" Content="Пуск!" HorizontalAlignment="Left" Margin="10,239,0,0" VerticalAlignment="Top" Width="83" Click="Pusk_Click" Height="70"/>
         <TextBox x:Name="otvet" HorizontalAlignment="Left" Height="119" Margin="231,190,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="259"/>
